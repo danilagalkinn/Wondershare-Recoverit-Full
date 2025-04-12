@@ -1,3 +1,5 @@
+<div align="center">
+
 # ✅ Install:
 <div align="center">
   <a href="">
